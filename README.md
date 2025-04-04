@@ -73,7 +73,7 @@ Before you begin, ensure you have met the following requirements:
 Run the script from the command line:
 
 ```
-python transcribe_and_extract.py
+python audio-summary_fabric.py
 ```
 
 Follow the prompts to enter the path to your audio file. The script will then:
